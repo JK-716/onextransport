@@ -1,0 +1,176 @@
+.j {
+    float: left;
+    width: 50%;
+}
+
+.j4 {
+    float: left;
+    width: 25%;
+}
+
+.j5 {
+    float: left;
+    width: 25%;
+}
+
+.j2 {
+    float: left;
+    width: 50%;
+}
+
+.j3 {
+    float: left;
+    width: 70%;
+    text-align: center;
+    margin-left: 50px;
+}
+
+.k1 {
+    float: left;
+    width: 35%;
+}
+
+.k {
+    margin: 20px;
+}
+
+.p1 {
+    color: cyan;
+    background-color: black;
+    margin: 0px;
+    font-size: large;
+    font-weight: 700;
+}
+
+.p5 {
+    text-align: justify;
+    font-weight: 700;
+    font-size: large;
+}
+
+.j6 {
+    color: cyan;
+    background-color: black;
+    margin: 0px;
+    font-size: large;
+}
+
+.p2 {
+    color: black;
+    background-color: #e4e7e5;
+    margin: 0px;
+    font-size: larger;
+    text-align: center;
+    font-weight: 1000;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.p4 {
+    color: cyan;
+}
+
+.p3 {
+    font-size: large;
+    font-weight: 750;
+}
+
+.j2 {
+    float: left;
+    width: 70%;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+h1 {
+    text-align: center;
+    color: cyan;
+    background-color: black;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.p7 {
+    font-weight: 700;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: white;
+    margin: -1px;
+}
+
+.fo {
+    background-color: gray;
+}
+
+.topnav a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: 1000;
+}
+
+.topnav a:hover {
+    background-color: beige;
+    color: black;
+}
+
+.topnav-right {
+    float: right;
+}
+
+.cl {
+    clear: both;
+}
+
+.p8 {
+    text-align: right;
+}
+
+@media screen and (max-width:800px) {
+    .j,
+    .j2,
+    .j3,
+    .j4,
+    .j5,
+    .j6,
+    .k,
+    .k1,
+    .p1,
+    .p2,
+    .p3,
+    .p4,
+    .p5,
+    .p6 {
+        width: 100%;
+    }
+}
+
+.col {
+    background-color: gray;
+    color: white;
+}
+
+.hh {
+    border-radius: 25px;
+}
+
+.p9 {
+    font-weight: 700px;
+    background-color: black;
+    color: white;
+}
